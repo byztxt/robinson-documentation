@@ -1,0 +1,753 @@
+ 5627 Tense - Second Aorist
+      Voice - Active
+      Mood  - Indicative
+      Count - 2131
+
+ 5628 Tense - Second Aorist
+      Voice - Active
+      Mood  - Imperative
+      Count - 280
+
+ 5629 Tense - Second Aorist
+      Voice - Active
+      Mood  - Infinitive
+      Count - 453
+
+ 5630 Tense - Second Aorist
+      Voice - Active
+      Mood  - Optative
+      Count - 14
+
+ 5631 Tense - Second Aorist
+      Voice - Active
+      Mood  - Participle
+      Count - 886
+
+ 5632 Tense - Second Aorist
+      Voice - Active
+      Mood  - Subjunctive
+      Count - 463
+
+ 5633 Tense - Second Aorist
+      Voice - Middle Deponent
+      Mood  - Indicative
+      Count - 259
+
+ 5634 Tense - Second Aorist
+      Voice - Middle Deponent
+      Mood  - Imperative
+      Count - 5
+
+ 5635 Tense - Second Aorist
+      Voice - Middle Deponent
+      Mood  - Infinitive
+      Count - 42
+
+ 5636 Tense - Second Aorist
+      Voice - Middle Deponent
+      Mood  - Optative
+      Count - 18
+
+ 5637 Tense - Second Aorist
+      Voice - Middle Deponent
+      Mood  - Participle
+      Count - 137
+
+ 5638 Tense - Second Aorist
+      Voice - Middle Deponent
+      Mood  - Subjunctive
+      Count - 68
+
+ 5639 Tense - Second Aorist
+      Voice - Middle
+      Mood  - Indicative
+      Count - 65
+
+ 5640 Tense - Second Aorist
+      Voice - Middle
+      Mood  - Imperative
+      Count - 215
+
+ 5641 Tense - Second Aorist
+      Voice - Middle
+      Mood  - Infinitive
+      Count - 9
+
+ 5642 Tense - Second Aorist
+      Voice - Middle
+      Mood  - Participle
+      Count - 19
+
+ 5643 Tense - Second Aorist
+      Voice - Middle
+      Mood  - Subjunctive
+      Count - 15
+
+ 5644 Tense - Second Aorist
+      Voice - Passive Deponent
+      Mood  - Indicative
+      Count - 13
+
+ 5645 Tense - Second Aorist
+      Voice - Passive Deponent
+      Mood  - Imperative
+      Count - 3
+
+ 5646 Tense - Second Aorist
+      Voice - Passive Deponent
+      Mood  - Infinitive
+      Count - 2
+
+ 5647 Tense - Second Aorist
+      Voice - Passive Deponent
+      Mood  - Subjunctive
+      Count - 2
+
+ 5648 Tense - Second Aorist
+      Voice - Passive
+      Mood  - Indicative
+      Count - 62
+
+ 5649 Tense - Second Aorist
+      Voice - Passive
+      Mood  - Imperative
+      Count - 9
+
+ 5650 Tense - Second Aorist
+      Voice - Passive
+      Mood  - Infinitive
+      Count - 4
+
+ 5651 Tense - Second Aorist
+      Voice - Passive
+      Mood  - Participle
+      Count - 34
+
+ 5652 Tense - Second Aorist
+      Voice - Passive
+      Mood  - Subjunctive
+      Count - 21
+
+ 5653 Tense - Second Aorist
+      Voice - No Voice Stated
+      Mood  - Imperative
+      Count - 0
+      [No longer used]
+
+ 5654 Tense - Second Aorist
+      Voice - No Voice Stated
+      Mood  - Participle
+      Count - 0
+      [No longer used]
+
+ 5655 Tense - Second Aorist
+      Voice - No Voice Stated
+      Mood  - Subjunctive
+      Count - 0
+      [No longer used]
+
+ 5656 Tense - Aorist
+      Voice - Active
+      Mood  - Indicative
+      Count - 2295
+
+ 5657 Tense - Aorist
+      Voice - Active
+      Mood  - Imperative
+      Count - 368
+
+ 5658 Tense - Aorist
+      Voice - Active
+      Mood  - Infinitive
+      Count - 515
+
+ 5659 Tense - Aorist
+      Voice - Active
+      Mood  - Optative
+      Count - 18
+
+ 5660 Tense - Aorist
+      Voice - Active
+      Mood  - Participle
+      Count - 709
+
+ 5661 Tense - Aorist
+      Voice - Active
+      Mood  - Subjunctive
+      Count - 516
+
+ 5662 Tense - Aorist
+      Voice - Middle Deponent
+      Mood  - Indicative
+      Count - 349
+
+ 5663 Tense - Aorist
+      Voice - Middle Deponent
+      Mood  - Imperative
+      Count - 54
+
+ 5664 Tense - Aorist
+      Voice - Middle Deponent
+      Mood  - Infinitive
+      Count - 37
+
+ 5665 Tense - Aorist
+      Voice - Middle Deponent
+      Mood  - Optative
+      Count - 1
+
+ 5666 Tense - Aorist
+      Voice - Middle Deponent
+      Mood  - Participle
+      Count - 89
+
+ 5667 Tense - Aorist
+      Voice - Middle Deponent
+      Mood  - Subjunctive
+      Count - 52
+
+ 5668 Tense - Aorist
+      Voice - Middle
+      Mood  - Indicative
+      Count - 86
+
+ 5669 Tense - Aorist
+      Voice - Middle
+      Mood  - Imperative
+      Count - 27
+
+ 5670 Tense - Aorist
+      Voice - Middle
+      Mood  - Infinitive
+      Count - 29
+
+ 5671 Tense - Aorist
+      Voice - Middle
+      Mood  - Participle
+      Count - 61
+
+ 5672 Tense - Aorist
+      Voice - Middle
+      Mood  - Subjunctive
+      Count - 41
+
+ 5673 Tense - Aorist
+      Voice - Middle or Passive Deponent
+      Mood  - Indicative
+      Count - 5
+
+ 5674 Tense - Aorist
+      Voice - Middle or Passive Deponent
+      Mood  - Participle
+      Count - 2
+
+ 5675 Tense - Aorist
+      Voice - Passive Deponent
+      Mood  - Indicative
+      Count - 80
+
+ 5676 Tense - Aorist
+      Voice - Passive Deponent
+      Mood  - Imperative
+      Count - 28
+
+ 5677 Tense - Aorist
+      Voice - Passive Deponent
+      Mood  - Infinitive
+      Count - 7
+
+ 5678 Tense - Aorist
+      Voice - Passive Deponent
+      Mood  - Optative
+      Count - 1
+
+ 5679 Tense - Aorist
+      Voice - Passive Deponent
+      Mood  - Participle
+      Count - 166
+
+ 5680 Tense - Aorist
+      Voice - Passive Deponent
+      Mood  - Subjunctive
+      Count - 16
+
+ 5681 Tense - Aorist
+      Voice - Passive
+      Mood  - Indicative
+      Count - 598
+
+ 5682 Tense - Aorist
+      Voice - Passive
+      Mood  - Imperative
+      Count - 41
+
+ 5683 Tense - Aorist
+      Voice - Passive
+      Mood  - Infinitive
+      Count - 157
+
+ 5684 Tense - Aorist
+      Voice - Passive
+      Mood  - Optative
+      Count - 4
+
+ 5685 Tense - Aorist
+      Voice - Passive
+      Mood  - Participle
+      Count - 210
+
+ 5686 Tense - Aorist
+      Voice - Passive
+      Mood  - Subjunctive
+      Count - 218
+
+ 5687 Tense - Second Future
+      Voice - Active
+      Mood  - Indicative
+      Count - 1
+
+ 5688 Tense - Second Future
+      Voice - Middle Deponent
+      Mood  - Indicative
+      Count - 1
+
+ 5689 Tense - Second Future
+      Voice - Middle
+      Mood  - Indicative
+      Count - 1
+
+ 5690 Tense - Second Future
+      Voice - Passive Deponent
+      Mood  - Indicative
+      Count - 4
+
+ 5691 Tense - Second Future
+      Voice - Passive
+      Mood  - Indicative
+      Count - 27
+
+ 5692 Tense - Future
+      Voice - Active
+      Mood  - Indicative
+      Count - 807
+
+ 5693 Tense - Future
+      Voice - Active
+      Mood  - Infinitive
+      Count - 1
+
+ 5694 Tense - Future
+      Voice - Active
+      Mood  - Participle
+      Count - 9
+
+ 5695 Tense - Future
+      Voice - Middle Deponent
+      Mood  - Indicative
+      Count - 459
+
+ 5696 Tense - Future
+      Voice - Middle Deponent
+      Mood  - Infinitive
+      Count - 6
+
+ 5697 Tense - Future
+      Voice - Middle Deponent
+      Mood  - Participle
+      Count - 3
+
+ 5698 Tense - Future
+      Voice - Middle
+      Mood  - Indicative
+      Count - 33
+
+ 5699 Tense - Future
+      Voice - Middle or Passive Deponent
+      Mood  - Indicative
+      Count - 8
+
+ 5700 Tense - Future
+      Voice - Passive Deponent
+      Mood  - Indicative
+      Count - 7
+
+ 5701 Tense - Future
+      Voice - Passive
+      Mood  - Indicative
+      Count - 249
+
+ 5702 Tense - Future
+      Voice - Passive
+      Mood  - Participle
+      Count - 1
+
+ 5703 Tense - Future
+      Voice - Passive
+      Mood  - Subjunctive
+      Count - 0
+      [No longer used]
+
+ 5704 Tense - Future
+      Voice - No Voice Stated
+      Mood  - Indicative
+      Count - 0
+      [No longer used]
+
+ 5705 Tense - Future
+      Voice - No Voice Stated
+      Mood  - Infinitive
+      Count - 0
+      [No longer used]
+
+ 5706 Tense - Future
+      Voice - No Voice Stated
+      Mood  - Participle
+      Count - 0
+      [No longer used]
+
+ 5707 Tense - Imperfect
+      Voice - Active
+      Mood  - Indicative
+      Count - 1360
+
+ 5708 Tense - Imperfect
+      Voice - Middle Deponent
+      Mood  - Indicative
+      Count - 1
+
+ 5709 Tense - Imperfect
+      Voice - Either Middle or Passive
+      Mood  - Indicative
+      Count - 1
+
+ 5710 Tense - Imperfect
+      Voice - Middle
+      Mood  - Indicative
+      Count - 50
+
+ 5711 Tense - Imperfect
+      Voice - Middle or Passive Deponent
+      Mood  - Indicative
+      Count - 183
+
+ 5712 Tense - Imperfect
+      Voice - Passive
+      Mood  - Indicative
+      Count - 84
+
+ 5713 Tense - Imperfect
+      Voice - No Voice Stated
+      Mood  - Indicative
+      Count - 0
+      [No longer used]
+
+ 5714 Tense - Second Pluperfect
+      Voice - Active
+      Mood  - Indicative
+      Count - 47
+
+ 5715 Tense - Pluperfect
+      Voice - Active
+      Mood  - Indicative
+      Count - 33
+
+ 5716 Tense - Pluperfect
+      Voice - Middle Deponent
+      Mood  - Indicative
+      Count - 1
+
+ 5717 Tense - Pluperfect
+      Voice - Middle
+      Mood  - Indicative
+      Count - 1
+
+ 5718 Tense - Pluperfect
+      Voice - Passive
+      Mood  - Indicative
+      Count - 7
+
+ 5719 Tense - Present
+      Voice - Active
+      Mood  - Indicative
+      Count - 4604
+
+ 5720 Tense - Present
+      Voice - Active
+      Mood  - Imperative
+      Count - 623
+
+ 5721 Tense - Present
+      Voice - Active
+      Mood  - Infinitive
+      Count - 777
+
+ 5722 Tense - Present
+      Voice - Active
+      Mood  - Optative
+      Count - 20
+
+ 5723 Tense - Present
+      Voice - Active
+      Mood  - Participle
+      Count - 2737
+
+ 5724 Tense - Present
+      Voice - Active
+      Mood  - Impersonal
+      Count - 0
+      [No longer used]
+
+ 5725 Tense - Present
+      Voice - Active
+      Mood  - Subjunctive
+      Count - 397
+
+ 5726 Tense - Present
+      Voice - Middle Deponent
+      Mood  - Participle
+      Count - 1
+
+ 5727 Tense - Present
+      Voice - Either Middle or Passive
+      Mood  - Indicative
+      Count - 7
+
+ 5728 Tense - Present
+      Voice - Either Middle or Passive
+      Mood  - Imperative
+      Count - 5
+
+ 5729 Tense - Present
+      Voice - Either Middle or Passive
+      Mood  - Infinitive
+      Count - 2
+
+ 5730 Tense - Present
+      Voice - Either Middle or Passive
+      Mood  - Participle
+      Count - 11
+
+ 5731 Tense - Present
+      Voice - Middle
+      Mood  - Indicative
+      Count - 70
+
+ 5732 Tense - Present
+      Voice - Middle
+      Mood  - Imperative
+      Count - 27
+
+ 5733 Tense - Present
+      Voice - Middle
+      Mood  - Infinitive
+      Count - 31
+
+ 5734 Tense - Present
+      Voice - Middle
+      Mood  - Participle
+      Count - 102
+
+ 5735 Tense - Present
+      Voice - Middle
+      Mood  - Subjunctive
+      Count - 8
+
+ 5736 Tense - Present
+      Voice - Middle or Passive Deponent
+      Mood  - Indicative
+      Count - 610
+
+ 5737 Tense - Present
+      Voice - Middle or Passive Deponent
+      Mood  - Imperative
+      Count - 169
+
+ 5738 Tense - Present
+      Voice - Middle or Passive Deponent
+      Mood  - Infinitive
+      Count - 107
+
+ 5739 Tense - Present
+      Voice - Middle or Passive Deponent
+      Mood  - Optative
+      Count - 3
+
+ 5740 Tense - Present
+      Voice - Middle or Passive Deponent
+      Mood  - Participle
+      Count - 545
+
+ 5741 Tense - Present
+      Voice - Middle or Passive Deponent
+      Mood  - Subjunctive
+      Count - 37
+
+ 5742 Tense - Present
+      Voice - Passive Deponent
+      Mood  - Participle
+      Count - 2
+
+ 5743 Tense - Present
+      Voice - Passive
+      Mood  - Indicative
+      Count - 269
+
+ 5744 Tense - Present
+      Voice - Passive
+      Mood  - Imperative
+      Count - 45
+
+ 5745 Tense - Present
+      Voice - Passive
+      Mood  - Infinitive
+      Count - 103
+
+ 5746 Tense - Present
+      Voice - Passive
+      Mood  - Participle
+      Count - 358
+
+ 5747 Tense - Present
+      Voice - Passive
+      Mood  - Subjunctive
+      Count - 21
+
+ 5748 Tense - Present
+      Voice - No Voice Stated
+      Mood  - Indicative
+      Count - 0
+      [No longer used]
+
+ 5749 Tense - Present
+      Voice - No Voice Stated
+      Mood  - Imperative
+      Count - 0
+      [No longer used]
+
+ 5750 Tense - Present
+      Voice - No Voice Stated
+      Mood  - Infinitive
+      Count - 0
+      [No longer used]
+
+ 5751 Tense - Present
+      Voice - No Voice Stated
+      Mood  - Optative
+      Count - 0
+      [No longer used]
+
+ 5752 Tense - Present
+      Voice - No Voice Stated
+      Mood  - Participle
+      Count - 0
+      [No longer used]
+
+ 5753 Tense - Present
+      Voice - No Voice Stated
+      Mood  - Subjunctive
+      Count - 0
+      [No longer used]
+
+ 5754 Tense - Second Perfect
+      Voice - Active
+      Mood  - Indicative
+      Count - 115
+
+ 5755 Tense - Second Perfect
+      Voice - Active
+      Mood  - Infinitive
+      Count - 9
+
+ 5756 Tense - Second Perfect
+      Voice - Active
+      Mood  - Participle
+      Count - 49
+
+ 5757 Tense - Second Perfect
+      Voice - Passive
+      Mood  - Participle
+      Count - 2
+
+ 5758 Tense - Perfect
+      Voice - Active
+      Mood  - Indicative
+      Count - 499
+
+ 5759 Tense - Perfect
+      Voice - Active
+      Mood  - Imperative
+      Count - 0
+
+      [No longer used]
+
+ 5760 Tense - Perfect
+      Voice - Active
+      Mood  - Infinitive
+      Count - 29
+
+ 5761 Tense - Perfect
+      Voice - Active
+      Mood  - Participle
+      Count - 184
+
+ 5762 Tense - Perfect
+      Voice - Active
+      Mood  - Subjunctive
+      Count - 10
+
+ 5763 Tense - Perfect
+      Voice - Middle Deponent
+      Mood  - Indicative
+      Count - 1
+
+ 5764 Tense - Perfect
+      Voice - Middle
+      Mood  - Indicative
+      Count - 1
+
+ 5765 Tense - Perfect
+      Voice - Middle
+      Mood  - Participle
+      Count - 5
+
+ 5766 Tense - Perfect
+      Voice - Middle or Passive Deponent
+      Mood  - Indicative
+      Count - 19
+
+ 5767 Tense - Perfect
+      Voice - Middle or Passive Deponent
+      Mood  - Infinitive
+      Count - 0
+      [Only in WH/N27]
+
+ 5768 Tense - Perfect
+      Voice - Middle or Passive Deponent
+      Mood  - Participle
+      Count - 4
+
+ 5769 Tense - Perfect
+      Voice - Passive
+      Mood  - Indicative
+      Count - 215
+
+ 5770 Tense - Perfect
+      Voice - Passive
+      Mood  - Imperative
+      Count - 3
+
+ 5771 Tense - Perfect
+      Voice - Passive
+      Mood  - Infinitive
+      Count - 9
+
+ 5772 Tense - Perfect
+      Voice - Passive
+      Mood  - Participle
+      Count - 449
+
+ 5773 Tense - No Tense Stated
+      Voice - No Voice Stated
+      Mood  - Imperative
+      Count - 0
+      [No longer used]
