@@ -1,0 +1,246 @@
+
+                       THE ONLINE GREEK NEW TESTAMENT
+            DECLENSION CODES FOR NOUNS, ADJECTIVES, PREPOSITIONS,
+                         CONJUNCTIONS AND PARTICLES
+
+                    Derived, compared and corrected from
+                   the Bagster "Analytical Greek Lexicon,"
+                       with comparison made against
+                Perschbacher's "New Analytical Greek Lexicon"
+
+               Abbreviated in a form similar to that found in
+                 Friberg's "Analytical Greek New Testament"
+
+                             Maurice A. Robinson
+                                 7 June 2009
+
+  The codes which follow reflect an original abridgment and correction
+  of the data presented in "The Analytical Greek Lexicon" (London:
+  Samuel Bagster and Sons, 1859).
+
+  Comparison also has been made against the revised updating of that
+  lexicon by Wesley J. Perschbacher in his "The New Analytical Greek
+  Lexicon" (Peabody, MA: Hendrickson, 1990). The Perschbacher revision
+  failed to adjust over 600 parsing or declensional errors in the
+  original Bagster edition; these now have been corrected.
+
+  The abbreviation system was developed independently. Its features are
+  similar to those in Timothy and Barbara Friberg "The Analytical Greek
+  New Testament" (Grand Rapids: Baker, 1981), and can be used readily
+  by anyone familiar with the Bagster lexicon, Perschbacher, or
+  Friberg.
+
+  Many Greek New Testament non-verbal forms (nouns, adjectives,
+  conjunctions, prepositions, and particles) can be interpreted in more
+  than one way. The declensions presented reflect a normal
+  interpretation of those forms which actually occur in the Greek New
+  Testament. Every NT occurrence is covered, and the declensions
+  reflect the totality of Greek NT non-verbal forms.
+
+  The data presented are not claimed to be free from error; the editor
+  may be notified of any problem regarding the parsing, declension, or
+  Strong's number assigned to any word, at SEBTS, P. O. Box 1889, Wake
+  Forest, NC 27588 or <mrobinson@sebts.edu>.
+
+
+  UNDECLINED FORMS:
+
+      ADV   = ADVerb or adverb and particle combined
+      CONJ  = CONJunction or conjunctive particle
+      COND  = CONDitional particle or conjunction
+      PRT   = PaRTicle, disjunctive particle
+      PREP  = PREPosition
+      INJ   = INterJection
+      ARAM  = ARAMaic transliterated word (indeclinable)
+      HEB   = HEBrew transliterated word (indeclinable)
+      N-PRI = Indeclinable PRoper Noun
+      A-NUI = Indeclinable NUmeral (Adjective)
+      N-LI  = Indeclinable Letter (Noun)
+      N-OI  = Indeclinable Noun of Other type
+
+  DECLINED FORMS:
+
+    All follow the order: prefix-case-number-gender-(suffix)
+
+    Prefixes:
+
+      N-    = Noun
+      A-    = Adjective
+      R-    = Relative pronoun
+      C-    = reCiprocal pronoun
+      D-    = Demonstrative pronoun
+      T-    = definite arTicle
+      K-    = correlative pronoun
+      I-    = Interrogative pronoun
+      X-    = indefinite pronoun
+      Q-    = correlative or interrogative pronoun
+      F-    = reFlexive pronoun (person 1,2,3 added)
+      S-    = poSsessive adjective (person 1,2,3 and number S,P added)
+      P-    = Personal pronoun (person 1,2,3 added)
+                (Note: 1st and 2nd personal pronouns have no gender)
+
+    Cases (5-case system only):
+
+      -N    = Nominative
+      -V    = Vocative
+      -G    = Genitive
+      -D    = Dative
+      -A    = Accusative
+
+    Number:                       Gender:
+
+      S     = Singular              M     = Masculine
+      P     = Plural                F     = Feminine
+                                    N     = Neuter
+
+    Suffixes:
+
+      -S    = Superlative (used primarily with adjectives and some adverbs)
+      -C    = Comparative (used primarily with adjectives and some adverbs)
+      -ABB  = ABBreviated form (used only with the number 666)
+      -I    = Interrogative
+      -N    = Negative (used with some particles, adverbs, adjectives,
+                 and conjunctions)
+      -K    = \~\\Kai\~\\ (CONJ) merged by crasis with forms of the
+                 demonstrative pronoun \~\\ekeinov\~\\ or the first
+                 person personal pronoun \~\\egw\~\\; also, the neuter
+                 definite article (\~\\to\~\\) merged by crasis with a
+                 second word. Declension follows that of the second
+                 word.
+      -ATT  = ATTic Greek form
+
+
+  ADDITIONAL NOTES:
+
+    Declined proper nouns are not specifically identified as being
+    names of persons or places; only indeclinable forms are so
+    identified.
+
+    Reflexive pronouns have the Person (1,2,3) attached, e.g. F-3DSF
+    See "auth" in the Bagster or Perschbacher lexicon for further
+    examples.
+
+    Possessive adjectives have the Person (1,2,3) and number (S,P)
+    attached, e.g. S-2PDSM for "umeterw". See "emov", "sov", "hmterov"
+    and "umeterov" in the Bagster or Perschbacher lexicon for further
+    examples.
+
+
+  SEARCHING FOR WORDS USING THE PARSING CODES:
+
+    All parsing and declension code information for the Greek NT text
+    appears in CAPITAL letters while the Greek text appears entirely
+    in lower case letters. Case-sensitive searching allows one to use
+    lower case to search for Greek words (with or without wildcards),
+    and upper case to search by parsing or declension (also with or
+    without wildcards). With Boolean search capabilities, lower and
+    upper case search requests can be combined to select Greek forms in
+    association with specified parsing or declension information.
+
+    To search across hyphenated portions of the declension (e.g.,
+    N-GSM), such must be stated as a "phrase search" request. To search
+    for N-GSM, one must seek the phrase "N GSM" or "N-GSM" (hyphens are
+    disregarded).
+
+    While one could search for all forms of "logov" by "log*" or for
+    all Genitive plural nouns by "GPM | GPM | GPN", one must request a
+    fully inclusive PHRASE SEARCH in order to link a word to its own
+    declension. This request normally will include the preliminary
+    part-of-speech identifier (N-, A-, or V-). E.g., to seek all
+    genitive plural forms of "logov", the phrase search request could
+    be rendered as either "log* N-GPM | log* N-GPF | log* N-GPN" or
+    "log* N-GP*"
+
+    The Strong's numbers also may be used in searches. This will reduce
+    the time and space otherwise needed to frame various requests.
+    E.g., a phrase search for all genitive plural forms of "logov"
+    could also be set by either "3056 & N-GPM | N-GPF | N-GPN" or "3056
+    & N-GP*".
+
+    Wherever the Strong's number is preceded by a zero entry <0>, this
+    indicates that in the Greek edition currently being examined there
+    is no corresponding Strong's number for this word (Strong's numbers
+    are based solely upon the Textus Receptus edition), and the number
+    assigned is at best the closest to the actual root (this adaptation
+    is currently in progress).
+
+    To search for phrases based solely on grammatical analysis (e.g.,
+    all prepositional phrases followed by an articular neuter genitive
+    noun), the wildcard (*) symbol should precede each requested
+    parsing within a phrase search request (e.g., "* PREP * T-GSN *
+    N-GSN").
+
+
+  STRONG'S NUMBERS:
+
+    To access the lexical root form definition of any Greek word, the
+    appropriate Strong's concordance number immediately follows each
+    Greek word. The definition then can be obtained by the normal
+    routine for definitions as used for English texts.
+
+    The Strong's numbers used for the Greek New Testament do NOT always
+    coincide with those used in the English texts. Strong clearly
+    assisted the lay reader of the Authorized Version by assigning
+    numbers to each unique root word form; however, he also attempted
+    further to aid the reader by subdividing some root forms into
+    separately numbered entries.
+
+    The result of such subdivision can be seen in the multiple forms of
+    the verb "to be" (each of which ultimately derives from Strong's
+    1510). The same policy of separate numerical entries also was
+    applied to various comparative and superlative forms of some
+    adjectives and adverbs, as well as to the adverbial use of some
+    noun forms.
+
+    Conversely, rather than treating each word separately (as would
+    have been proper for anyone able to read the Greek), Strong
+    assigned a single unique number to certain multiple-word 
+    expressions (e.g., "ou mh" or "ei de mhge"). Such a number no
+    longer was reflective of the individual root forms. Once more, this
+    action was taken by Strong in order to assist the lay English
+    reader who knew no Greek; in practice this policy becomes a severe
+    hindrance to those who know and seek to read and understand the New
+    Testament in its original Koine Greek.
+
+    Thus, the Strong's numbers -- well-suited as they may be for the
+    lay reader of the English text -- in places become confusing and
+    detrimental to those reading the Greek New Testament who would use
+    those numbers when searching for or classifying the ultimate
+    lexical root forms of various Greek words.
+
+    The present Greek edition attempts to alter Strong's Greek word 
+    numbers so that they relate directly to their ultimate practical 
+    root form where possible. For example, all forms of the irregular 
+    second aorist root "eipon" (Strong's 2036) now are assigned to the 
+    root "legw" (Strong's 3004), to which "eipon" functions as the 
+    practical aorist. Similarly, all derived forms of "eidon" 
+    (originally included within Strong's 1492) now are related 
+    appropriately to either "oraw" (Strong's 3708) or "oida" (Strong's 
+    1492), in accordance with their particular meaning. However, in 
+    some cases (e. g., mhge), a Strong's original phrase-based number
+    has been retained to identify the particular single word that
+    otherwise would have no unique Strong's number.
+
+    In some cases, new words exist within the Koine Greek text that had 
+    not appeared in the Textus Receptus upon which Strong's numbering 
+    system had been based. In such cases, the new word is located 
+    either under a relatively appropriate Strong's number, or has been 
+    assigned a Strong's number that otherwise would no longer exist, 
+    due to consolidation under the root lexical forms. One case in 
+    particular is that of "ekperissou" and "ekperisswv," neither of 
+    which exist separately in the TR: these have been assigned the 
+    Strong's numbers 4053 and 4057, thus retaining a single common 
+    root, and that in close relation to other words containing some 
+    form of "periss-".
+
+    The revision of the Strong's numbers within the Greek NT text is an
+    ongoing process. Ultimately all Strong's numbers in the Greek text
+    will agree with the Greek lexical root form.
+
+
+    Note that it is ASSUMED that most Strong's numbers are correct;
+    these have not been verified, although many errors have been noted
+    and corrected.
+
+
+                             - end of file -
